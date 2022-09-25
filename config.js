@@ -30,7 +30,7 @@ const CONFIG = {
 
     mess: 'Mình biết mà 🥰. Yêu bạn nhiều nhiều 😘😘',
 
-    messDesc: 'Chúc Em Ngủ Ngon ❤️❤️.',
+    messDesc: 'Iu Mai Hoa Nhất Trên Đời ❤️❤️.',
 
     btnAccept: 'Okiiiii lun <3',
 
